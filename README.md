@@ -1,3 +1,6 @@
+<h1 align="center">
+    <img alt="Be The Hero" src="frontend/src/assets/logo.svg" width="200px" />
+</h1>
 
 <h2 align="center">
 
